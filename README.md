@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Shinde</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="1000">
+<br><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan1229&label=Profile%20views&color=0e75b6&style=flat" alt="aryan1229" /> </p>
 
 <p align="left"> <a href="https://twitter.com/twi_aryann07" target="blank"><img src="https://img.shields.io/twitter/follow/twi_aryann07?logo=twitter&style=for-the-badge" alt="twi_aryann07" /></a> </p>
