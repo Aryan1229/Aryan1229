@@ -42,7 +42,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan1229&theme=radical" alt="aryan1229" /></a> </p>
 
-![snake gif](https://github.com/Aryan1229/Aryan1229/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/Aryan1229/Aryan1229/blob/output/github-snake-dark.svg?palette=github-dark)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
